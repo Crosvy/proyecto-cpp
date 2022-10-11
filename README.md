@@ -88,3 +88,5 @@ Bien, para estas acciones y otras Python no ofrece un módulo llamado os. Este m
 
 os.rename() 	*Renombra un fichero*       os.rename(‘write.txt’, ‘rename_write.txt’)
 os.remove()     *Elimina un fichero*        os.remove(‘rename_write.txt’)
+
+#Fin
