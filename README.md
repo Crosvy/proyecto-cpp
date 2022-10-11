@@ -1,19 +1,15 @@
 ## CENTRO UNIVERSITARIO DE BOCA DEL MONTE
 ### FACULTAD DE INGENIERIA EN SISTEMAS
 
-  
-
-
-   ![imagen](logoumg.PNG)
 
 ## Titulo: **Proyecto 2 Algoritmos**
 
- 
+
 
 ### Nombres: Crosvy Rolando Culajay Zabala
-###          Ruth Estefania Damian Perez
-###          Jose Samayoa
-###          Kevin 
+###          Ruth Estefania Perez Damian 
+###          Jose Rodolfo Samayoa Matias
+###          Kevin Antulio Poitan Cos
 ### Sección “A”
 
 
